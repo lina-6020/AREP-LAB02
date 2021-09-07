@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.escuelaing.arep.lab02"},{"l":"edu.escuelaing.arep.lab02.ejercicios"}];updateSearchResults();
